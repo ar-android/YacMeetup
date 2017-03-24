@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540455133050",
+    "firebase_url": "https://yac-dinamyc-links.firebaseio.com",
+    "project_id": "yac-dinamyc-links",
+    "storage_bucket": "yac-dinamyc-links.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540455133050:android:6afb36c6297bc740",
+        "android_client_info": {
+          "package_name": "com.ahmadrosid.yacmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540455133050-ahfoihs3iv5scukhsv1m6fph6eq4j0al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.yacmeetup",
+            "certificate_hash": "4a842d89beca5cb3444a15214cb18eec86142ac9"
+          }
+        },
+        {
+          "client_id": "540455133050-07sfcn8u6res9ac3d2bnbl4v9dlkt8eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VZHfEOiXdHaPl4JIvVpHd5vc2PbCdYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540455133050-07sfcn8u6res9ac3d2bnbl4v9dlkt8eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
